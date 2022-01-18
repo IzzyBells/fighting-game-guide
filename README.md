@@ -1,6 +1,6 @@
 ## This is where to start with fighting games!
 
-This guide seeks to give new fighting game players or others interested in the genre some direction on how they can start playing and enjoying fighting games with others. By *fighting games*, we are mostly referring to the genre of 2D arcade-style fighting games that started with *Street Fighter II*. Some of the information in this guide is also applicable to 3D fighting games such as *Tekken* and *Virtua Fighter*. Platform fighters such as *Super Smash Bros.* and *Rivals of Aether* are too different from this genre for many of these ideas to be applicable, so they are not included within the scope of this guide.
+This guide seeks to give new fighting game players or others interested in the genre some direction on how they can start playing and enjoying fighting games with others. By *fighting games*, I am mostly referring to the genre of 2D arcade-style fighting games that started with *Street Fighter II*. Some of the information in this guide is also applicable to 3D fighting games such as *Tekken* and *Virtua Fighter*. Platform fighters such as *Super Smash Bros.* and *Rivals of Aether* are too different from this genre for many of these ideas to be applicable, so they are not included within the scope of this guide.
 
 # Setting up retro online games for first-timers:
 - [FightCade 2 primer / setup guide](https://docs.google.com/document/d/18mBBLVMCzzlq7eejTvGaoCFb9H2VM_PuAsbM8pjBmoY)
@@ -17,7 +17,9 @@ People won't admit this, but pad, stick, and keyboard are all equally viable inp
 	- [Pad (DS4 shown as example)](https://www.youtube.com/watch?v=AeRfBEBJxRc)
 	- [Stick](https://www.youtube.com/watch?v=Qi0QMmYnaKM)
 
-Practice special moves on your controller of choice until you can hit 15 of each input in a row consistently. Try to get to a point of muscle memory where performing a special move is second nature. Mastering these initial techniques will open up almost the whole genre for you to essentially pick up and play.
+Practice special moves on your controller of choice until you can hit 15 of each input in a row consistently. Try to get to a point of muscle memory where performing a special move is second nature. Mastering these initial techniques will open up almost the whole genre for you to essentially pick up and play. Learning these motions will be like learning to ride a bike, you'll never forget it, and ***it's imperative for you to be able to execute them easily.***
+
+It's also worth noting that fighting games can have a variety of different button schemes, so feel free to look up or experiment with different layouts for your particular controller. This is a bit more work for emulated games on FightCade than it is for current commercial games.
 
 # Some good fighting games for beginners to try:
 
@@ -40,14 +42,15 @@ Practice special moves on your controller of choice until you can hit 15 of each
 	- Dragon Ball FighterZ ([PC](https://store.steampowered.com/app/678950/DRAGON_BALL_FighterZ/), [PS4](https://store.playstation.com/en-us/product/UP0700-CUSA09072_00-DBPROJECTZGOKU18), [Switch](https://www.nintendo.com/games/detail/dragon-ball-fighterz-switch/), [Xbox One](https://www.xbox.com/en-US/games/dragon-ball-fighterz)) is a very popular team-based anime fighter. If you're a Dragon Ball Z fan, you'll at least get a fan-service enjoyment of this game. Different characters can share many traits, and the game has many other features to simplify the learning process for beginners to team-based games.
 	- DNF Duel (PC, PS4, PS5: to be released) is an upcoming 2D fighter with a very strong emphasis on accessibility for beginners, featuring autocombos and one-button-specials. 
 
+If you aren't liking the game you're playing, feel free to just try another one, which is especially easy if you use FightCade. [Fighting Games Are For Everyone](https://www.youtube.com/watch?v=DPBksemWym0), but not every fighting game is for every player. Once you decide what game(s) you're interested in, use the link at the end of this guide to join the community Discord server for that game to connect with other players of your game and do research. These Discord servers are a treasure trove of useful information for players who want to get better, and can help you to get matches going in games that aren't especially populated online. 
+
 # Picking your character / playstyle:
+- [An overview of character archetypes in fighting games](https://www.youtube.com/watch?v=xnymxhfyCmE)
+	- [A playlist with dedicated videos for each](https://www.youtube.com/playlist?list=PLnKnEE3n5Y_dBlP_rEsu9tM1im9fbMgQM)
+- [How to approach team games](https://www.youtube.com/watch?v=Gs5EASClxX4)
+- [How to pick a character](https://www.youtube.com/watch?v=AGHGEttNjyo)
 
-- Character archetype overview: https://www.youtube.com/watch?v=xnymxhfyCmE
-	- Playlist with dedicated videos for each: https://www.youtube.com/playlist?list=PLnKnEE3n5Y_dBlP_rEsu9tM1im9fbMgQM
-- How to approach team games: https://www.youtube.com/watch?v=Gs5EASClxX4
-- 
-
-# Intermediate: the mental game and theory:
+# Fundamentals, the mental game, strategy:
 - [Fighting Game Resource Compendium](https://docs.google.com/document/d/1Va7hiR0_qo38PTbXdP2trrlK42Nm3j-Fws0nH312DXo/) by [YoJimbo0321](https://twitter.com/YoJimbo0321/status/1468581128181358599): A huge Google Doc about a variety of fighting game concepts with tons of links to further material
 - [Core-A Gaming](https://www.youtube.com/channel/UCT7njg__VOy3n-SvXemDHvg)'s YouTube channel
 - [novriltataki](https://www.youtube.com/channel/UCL45vmk8Jx3Pa3q0xUbZWtw)'s YouTube channel
@@ -57,12 +60,10 @@ Practice special moves on your controller of choice until you can hit 15 of each
 - [Street Fighter Footsies Handbook](https://sonichurricane.com/?page_id=1702): A classic guide on the neutral game
 - [From Masher to Master: The Educated Video Game Enthusiast’s Fighting Game Primer](https://cs4730.cs.virginia.edu/materials/FightingGamePrimer.pdf): A hands-on eBook about understanding the combat of fighting games through the lens of Street Fighter II
 
-# advanced
-- domination 101: https://docs.google.com/document/d/1IVQrpu7Ua-nKORyKIeg7gIVNI2EjoPv_sL5q6fKwpl0/
-	- dom101 retrospective talk panel: https://www.youtube.com/watch?v=AeJRlgleeyw
-	- dom101 10 years later interview: https://web.archive.org/web/20170608173437/http://shoryuken.com/2013/10/14/return-of-the-dominator-seth-killian-revisits-domination-101/
+Beyond this, you'll need to use your game's specific community resources to learn more about the specific character you play and the system mechanics of your game to improve. This is where things diverge too much to give decent advice, but if you take advantage of these resources, you should be well on your way to practicing your game and knowing how to improve.
 
 # Useful links:
-[Directory of community discords](https://wiki.supercombo.gg/w/SuperCombo_Wiki:Community_portal)
+[Directory of community discords](https://wiki.supercombo.gg/w/SuperCombo_Wiki:Community_portal): This is a list of community Discord servers for specific games.
 [Fighting game glossary](https://glossary.infil.net/): Huge glossary for hundreds of different pieces of fighting game jargon and community slang
-[Joy2key](https://joytokey.net/en/): you will need this for something someday 
+[Joy2key](https://joytokey.net/en/): You will need this for something someday 
+[FBNeo training mode](https://github.com/peon2/fbneo-training-mode): Community Discord servers for specific games will often have developed a better training mode for their game themselves, but for many games that run using FBNeo on FightCade, this is a great general training mode script.
