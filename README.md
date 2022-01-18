@@ -62,6 +62,8 @@ If you aren't liking the game you're playing, feel free to just try another one,
 
 Beyond this, you'll need to use your game's specific community resources to learn more about the specific character you play and the system mechanics of your game to improve. This is where things diverge too much to give decent advice, but if you take advantage of these resources, you should be well on your way to practicing your game and knowing how to improve.
 
+If you're an experienced fighting game player who thinks that certain information should be added, or have constructive criticism for how I could improve this guide, feel free to submit an issue to this repository on GitHub or contact me at ```Mχ. Bells#1917``` on Discord.
+
 # Useful links:
 [Directory of community discords](https://wiki.supercombo.gg/w/SuperCombo_Wiki:Community_portal): This is a list of community Discord servers for specific games.
 [Fighting game glossary](https://glossary.infil.net/): Huge glossary for hundreds of different pieces of fighting game jargon and community slang
