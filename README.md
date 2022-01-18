@@ -50,7 +50,7 @@ If you aren't liking the game you're playing, feel free to just try another one,
 - [How to approach team games](https://www.youtube.com/watch?v=Gs5EASClxX4)
 - [How to pick a character](https://www.youtube.com/watch?v=AGHGEttNjyo)
 
-# Fundamentals, the mental game, strategy:
+# Learning, fundamentals, the mental game, strategy:
 - [Fighting Game Resource Compendium](https://docs.google.com/document/d/1Va7hiR0_qo38PTbXdP2trrlK42Nm3j-Fws0nH312DXo/) by [YoJimbo0321](https://twitter.com/YoJimbo0321/status/1468581128181358599): A huge Google Doc about a variety of fighting game concepts with tons of links to further material
 - [Core-A Gaming](https://www.youtube.com/channel/UCT7njg__VOy3n-SvXemDHvg)'s YouTube channel
 - [novriltataki](https://www.youtube.com/channel/UCL45vmk8Jx3Pa3q0xUbZWtw)'s YouTube channel
