@@ -1,6 +1,6 @@
 ## This is where to start with fighting games!
 
-This guide seeks to give new fighting game players or others interested in the genre some direction on how they can start playing and enjoying fighting games with others. By *fighting games*, I am mostly referring to the genre of 2D arcade-style fighting games that started with *Street Fighter II*. Some of the information in this guide is also applicable to 3D fighting games such as *Tekken* and *Virtua Fighter*. Platform fighters such as *Super Smash Bros.* and *Rivals of Aether* are too different from this genre for many of these ideas to be applicable, so they are not included within the scope of this guide.
+This is a work-in-progress guide that seeks to give new fighting game players or others interested in the genre some direction on how they can start playing and enjoying fighting games with others. By *fighting games*, I am mostly referring to the genre of 2D arcade-style fighting games that started with *Street Fighter II*. Some of the information in this guide is also applicable to 3D fighting games such as *Tekken* and *Virtua Fighter*. Platform fighters such as *Super Smash Bros.* and *Rivals of Aether* are too different from this genre for many of these ideas to be applicable, so they are not included within the scope of this guide.
 
 # Setting up retro online games for first-timers:
 - [FightCade 2 primer / setup guide](https://docs.google.com/document/d/18mBBLVMCzzlq7eejTvGaoCFb9H2VM_PuAsbM8pjBmoY)
