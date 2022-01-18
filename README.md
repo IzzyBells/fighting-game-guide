@@ -65,7 +65,7 @@ Beyond this, you'll need to use your game's specific community resources to lear
 If you're an experienced fighting game player who thinks that certain information should be added, or have constructive criticism for how I could improve this guide, feel free to submit an issue to this repository on GitHub or contact me at ```Mχ. Bells#1917``` on Discord.
 
 # Useful links:
-[Directory of community discords](https://wiki.supercombo.gg/w/SuperCombo_Wiki:Community_portal): This is a list of community Discord servers for specific games.
-[Fighting game glossary](https://glossary.infil.net/): Huge glossary for hundreds of different pieces of fighting game jargon and community slang
-[Joy2key](https://joytokey.net/en/): You will need this for something someday 
-[FBNeo training mode](https://github.com/peon2/fbneo-training-mode): Community Discord servers for specific games will often have developed a better training mode for their game themselves, but for many games that run using FBNeo on FightCade, this is a great general training mode script.
+- [Directory of community discords](https://wiki.supercombo.gg/w/SuperCombo_Wiki:Community_portal): This is a list of community Discord servers for specific games.
+- [Fighting game glossary](https://glossary.infil.net/): Huge glossary for hundreds of different pieces of fighting game jargon and community slang
+- [Joy2key](https://joytokey.net/en/): You will need this for something someday 
+- [FBNeo training mode](https://github.com/peon2/fbneo-training-mode): Community Discord servers for specific games will often have developed a better training mode for their game themselves, but for many games that run using FBNeo on FightCade, this is a great general training mode script.
